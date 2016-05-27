@@ -12,7 +12,7 @@ Badges
         :target: http://codecov.io/github/kavdev/python-xirsys?branch=master
 .. image:: https://img.shields.io/requires/github/kavdev/python-xirsys.svg?style=flat-square
         :target: https://requires.io/github/kavdev/python-xirsys/requirements/?branch=master
-.. image:: https://img.shields.io/codacy/fd05754e919f4a18b4cfada7ef9632fa.svg?style=flat-square
+.. image:: https://img.shields.io/codacy/75dbe2685efe47c3aa203a53154c9e7e.svg?style=flat-square
         :target: https://www.codacy.com/app/kavanaugh-development/python-xirsys/dashboard
 
 .. image:: https://img.shields.io/pypi/v/python-xirsys.svg?style=flat-square
