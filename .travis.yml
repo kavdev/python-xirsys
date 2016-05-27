@@ -23,7 +23,5 @@ install:
 script: python runtests.py
 
 # Running codecov
-before_install:
-  pip install codecov
 after_success:
-  codecov
+  - bash <(curl -s https://codecov.io/bash)
