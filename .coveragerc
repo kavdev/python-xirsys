@@ -1,0 +1,9 @@
+[run]
+branch = True
+source = python_xirsys
+
+omit =
+    python_xirsys/*__init__.py
+
+[html]
+directory = cover
