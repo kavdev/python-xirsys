@@ -56,7 +56,7 @@ setup(
     name='python-xirsys',
     version=finder.version,
     description=finder.summary,
-    long_description=readme + '\n\n' + changes,
+    long_description=readme + '\n\n\n' + changes,
     author=finder.author,
     author_email=finder.email,
     url=finder.uri,
