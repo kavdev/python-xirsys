@@ -4,7 +4,7 @@ __title__ = "python-xirsys"
 __summary__ = "A Python 3 interface to the XirSys API."
 __uri__ = "https://github.com/kavdev/python-xirsys/"
 
-__version__ = "0.1.0.dev"
+__version__ = "0.1.0"
 
 __author__ = "Alexander Kavanaugh"
 __email__ = "alex@kavdev.io"
