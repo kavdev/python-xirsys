@@ -22,7 +22,7 @@ Badges
 
 .. image:: https://img.shields.io/github/issues/kavdev/python-xirsys.svg?style=flat-square
         :target: https://github.com/kavdev/python-xirsys/issues
-.. image:: https://img.shields.io/github/license/kavdev/python-xirsyse.svg?style=flat-square
+.. image:: https://img.shields.io/github/license/kavdev/python-xirsys.svg?style=flat-square
         :target: https://github.com/kavdev/python-xirsys/blob/master/LICENSE
 
 Usage
