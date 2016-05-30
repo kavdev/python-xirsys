@@ -38,7 +38,7 @@ Build a Connection object:
 
 .. code-block:: python
 
-    from python-xirsys import Connection
+    from python_xirsys import Connection
     
     connection = Connection(username="<xirsys_username>", secret_key="<xirsys_secret_key>"
 

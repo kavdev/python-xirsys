@@ -17,7 +17,7 @@ class XirSysObject(object):
         self.connection = connection
 
     def __str__(self):
-        return getattr(self, self.description_attribute)
+        return str(getattr(self, self.description_attribute))
 
     def __repr__(self):
         return "<{classname} [{description}]>".format(classname=str(self.__class__.__name__), description=str(self))
